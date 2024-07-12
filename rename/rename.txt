@@ -1,0 +1,8 @@
+oldName = strings.ReplaceAll(oldName, "4K超高清HiRes", "")
+oldName = strings.ReplaceAll(oldName, "顶级修复HiRes", "")
+oldName = strings.ReplaceAll(oldName, "4K顶级修复", "")
+oldName = strings.ReplaceAll(oldName, "无损封装", "")
+oldName = strings.ReplaceAll(oldName, "4K超清", "")
+oldName = strings.ReplaceAll(oldName, "修复版", "")
+oldName = strings.ReplaceAll(oldName, "4K", "")
+oldName = strings.ReplaceAll(oldName, "4K"

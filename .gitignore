@@ -1,4 +1,6 @@
 vendor
 .idea
 .DS_store
-/sql/leveldb/
+leveldb
+*.ldb
+*.log
